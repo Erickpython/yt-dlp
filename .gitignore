@@ -1,0 +1,17 @@
+# ignore virtual environment folder
+ytenv/
+
+# ignore Python cache files
+__pycache__/
+*.pyc
+*.Pyo
+
+# ignore downloaded videos and archive files 
+downloads/
+
+# ignore cookies 
+cookies.txt
+
+#  ignore system files
+.DS_Store
+Thumbs.db
