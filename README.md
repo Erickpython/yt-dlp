@@ -20,12 +20,11 @@ It allows users to paste a YouTube playlist link and download all videos directl
 ## 🖼️ Screenshots
 
 ### 🎨 Dashboard Interface
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](./images/dashboard.png)
 
 ### 🧑‍💻 Terminal View (App Running)
-![VS Code Terminal Screenshot](images/terminal.png)
+![VS Code Terminal Screenshot](./images/vscode.png)
 
-> 📸 *Screenshots are stored in the `images/` folder inside this repository.*
 
 ---
 
